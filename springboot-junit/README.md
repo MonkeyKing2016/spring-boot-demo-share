@@ -24,7 +24,7 @@ tags: SpringBoot Junit
 
 在项目路径 `src/test/java` 下会自动生成一个`XXXTests`的测试类。如下
 
-![image-20180928180319224](https://github.com/MonkeyKing2016/spring-boot-demo-share/blob/master/springboot-simple/src/main/resources/static/assets/img/image-20180928180319224.png)
+![image-20180928180319224](https://github.com/MonkeyKing2016/spring-boot-demo-share/blob/master/springboot-junit/src/main/resources/static/assets/img/image-20180928180319224.png)
 
 
 
