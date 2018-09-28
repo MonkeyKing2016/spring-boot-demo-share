@@ -8,9 +8,9 @@ cover: ''
 tags: SpringBoot Junit
 ---
 
-> 该 demo 简单的集成 ==Junit== 框架
+> 该 demo 简单的集成 Junit 框架
 >
-> 后续项目中都会集成 ==Junit== 或者 ==TestNG==
+> 后续项目中都会集成 Junit 或者 TestNG
 >
 > 编辑器：IDEA
 >
