@@ -5,7 +5,7 @@ subtitle: '简单的搭建SpringBoot框架'
 date: 2018-07-28
 categories: 技术
 cover: ''
-tags: SpringBoot simple
+tags: SpringBoot Simple
 ---
 
 > 该demo只是简易的搭建SpringBoot的框架。
