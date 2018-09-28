@@ -1,4 +1,4 @@
-package com.monkeykingshare.demo.springboot.simple;
+package top.monkeykingshare.demo.springboot.simple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
