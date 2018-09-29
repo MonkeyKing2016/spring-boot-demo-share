@@ -16,9 +16,7 @@ tags: SpringBoot Redis
 >
 > 版本：SpringBoot-2.0.5
 >
-> demo地址：
-> 
-> [SpringBoot集成Redis](https://github.com/MonkeyKing2016/spring-boot-demo-share/tree/master/springboot-redis)
+> demo地址：[SpringBoot集成Redis](https://github.com/MonkeyKing2016/spring-boot-demo-share/tree/master/springboot-redis)
 >
 > [SpringDataRedis文档地址](https://docs.spring.io/spring-data/data-redis/docs/2.0.5.RELEASE/reference/html/)
 
